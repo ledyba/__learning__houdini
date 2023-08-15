@@ -1,5 +1,7 @@
 # Rubber ball
 
+<video controls src="out.mp4"></video>
+
 - [Mixing Vellum Constraints | SideFX](https://www.sidefx.com/tutorials/mixing-vellum-constrains/)
 
 ## Encoding
